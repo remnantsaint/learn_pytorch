@@ -1,6 +1,5 @@
   本仓库是入门学习 pytorch，代码在 Cursor 上运行，PyCharm 中会报 Numpy 的版本依赖错误，可以尝试用高版本 Python    
 
-  # 缺少对应的 python 包时自行用 conda 或 pip 下载
   用 `conda env export > environment.yml` 导出的依赖文件
   用 `conda env create -f environment.yml` 加载
 
