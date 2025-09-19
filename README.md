@@ -5,7 +5,8 @@
 
   src 目录下的文件要在编辑器终端进入 src 目录才能定位到数据集目录
 
-  博客链接[深度学习Pytorch入门](https://remsait.com/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0Pytorch%E5%85%A5%E9%97%A8)  
+  博客链接：  
+  [深度学习Pytorch入门](https://remsait.com/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0Pytorch%E5%85%A5%E9%97%A8)  
   
   参考：   
 [B站 我是土堆 PyTorch 入门教程](https://www.bilibili.com/video/BV1hE411t7RN/)    
